@@ -37,4 +37,4 @@ For the create-rsp command:<br>
 afterwards:<br>
 >fib bundle @responseFile.rsp
 
-[![Copy Text](https://img.shields.io/badge/Copy%20Text-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAHUlEQVQ4jWNgYGD4TyFmGDWAYTQMGEbDgGHohwEAm8z/AWbhjCAAAAAASUVORK5CYII=)]
+[![Copy Text](fib bundle @responseFile.rsp)]
