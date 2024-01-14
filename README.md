@@ -37,4 +37,13 @@ For the create-rsp command:<br>
 afterwards:<br>
 >fib bundle @responseFile.rsp
 
-[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAHUlEQVQ4jWNgYGD4TyFmGDWAYTQMGEbDgGHohwEAm8z/AWbhjCAAAAAASUVORK5CYII=)](javascript:void(0))
+function copyText() {
+    var textToCopy = 'fib bundle @responseFile.rsp';
+    var tempInput = document.createElement('textarea');
+    tempInput.value = textToCopy;
+    document.body.appendChild(tempInput);
+    tempInput.select();
+    document.execCommand('copy');
+    document.body.removeChild(tempInput);
+    alert('הטקסט הועתק ללוח הגזיר!');
+}
