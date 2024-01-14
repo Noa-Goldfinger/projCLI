@@ -1,4 +1,4 @@
---Code Packaging Tool in C# (CLI) - Bundle Command:
+#Code Packaging Tool in C# (CLI) - Bundle Command:
 
 As part of my programming curriculum, I identified the need for an efficient solution to simplify the process of submitting coding exercises for evaluation. When exercises involve multiple code files, the evaluation process becomes cumbersome for both the student and the instructor. To address this challenge, I developed a Command-Line Interface (CLI) tool in C# to package code from various files into a single, easily assessable document.
 
