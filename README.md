@@ -25,3 +25,14 @@ Exclude empty lines from the consolidated document for cleaner presentation.<br>
 
 create-rsp:<br>
 Generate a response file (.rsp) to provide users with feedback and facilitate ease of use.
+
+To use the root command fib and its subcommands, utilize the following examples:
+
+For the bundle command:
+>fib bundle -o outputFileName -l C# -n "Exercise submission" -s -r -a "John Doe"
+For the create-rsp command:
+>fib create-rsp
+afterwards:
+>fib bundle @responseFile.rsp
+>כן
+>כןנ 
