@@ -24,7 +24,7 @@ Exclude empty lines from the consolidated document for cleaner presentation.<br>
 ### Additional Command - Response File:<br>
 
 create-rsp:<br>
-Generate a response file (.rsp) to provide users with feedback and facilitate ease of use.
+Generate a response file (.rsp) to provide users with feedback and facilitate ease of use.<br><br>
 
 To use the root command fib and its subcommands, utilize the following examples:
 
