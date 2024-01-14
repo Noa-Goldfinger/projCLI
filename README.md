@@ -33,7 +33,8 @@ For the bundle command:<br>
 
 For the create-rsp command:<br>
 >fib create-rsp<br>
+
 afterwards:<br>
 >fib bundle @responseFile.rsp
->כן
->כןנ 
+
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAHUlEQVQ4jWNgYGD4TyFmGDWAYTQMGEbDgGHohwEAm8z/AWbhjCAAAAAASUVORK5CYII=)](javascript:void(0))
