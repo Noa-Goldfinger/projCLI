@@ -36,5 +36,3 @@ For the create-rsp command:<br>
 
 afterwards:<br>
 >fib bundle @responseFile.rsp
-
-[![Copy Text](fib bundle @responseFile.rsp)]
