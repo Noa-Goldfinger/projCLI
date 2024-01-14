@@ -29,7 +29,7 @@ Generate a response file (.rsp) to provide users with feedback and facilitate ea
 To use the root command fib and its subcommands, utilize the following examples:
 
 For the bundle command:<br>
->fib bundle -o outputFileName -l C# -n -s type -r -a "John Doe"<br>
+>fib bundle -o outputFileName -l C# -n -s type -r -a "John Doe"<br><br>
 
 For the create-rsp command:<br>
 >fib create-rsp<br>
